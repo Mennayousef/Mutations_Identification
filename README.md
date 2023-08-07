@@ -1,4 +1,5 @@
-# A-Pipeline-for-the-Analysis-of-Gene-Expression-RNA-seq-Data
+# Mutations Identification
+## A-Pipeline-for-the-Analysis-of-Gene-Expression-RNA-seq-Data
 
 1- The function dna_comparison that takes two string (not filename) arguments, the wild type sequence and a single mutated sequence, compares them and returns the number of transitions and transversions (in that order) between the two.
 2- The function checks for the following issues and if found, return zero transitions and transversions as well as printing an error message:
